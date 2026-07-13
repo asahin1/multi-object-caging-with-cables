@@ -36,5 +36,5 @@ For running all problem instances, see targets in [makefile](./makefile).
 Following contexts are available, specifying the number of objects in the scene: `2_obj`, `3_obj`, `4_obj`, `5_obj`, `6_obj`, `7_obj`.
 Problem names follow the format: `graph_scene<scene-no>-m<n-cables>-i<instance-no>`
 
-View the `.json` files in [data/graphs](./data/graphs) and [data/problems](./data/problems) for details.
+View the `.json` files in `data/graphs` and `data/problems` for details.
 
