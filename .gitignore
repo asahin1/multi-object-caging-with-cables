@@ -1,0 +1,19 @@
+# Environments
+.venv/
+
+# Distribution / Packaging
+*.egg-info/
+
+# Byte-compiled / Optimized / DLL files
+__pycache__/
+
+# Gurobi output
+*.sol
+*.lp
+
+# Logs
+*.log
+
+# I/O data
+data/
+out/

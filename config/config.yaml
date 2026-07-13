@@ -1,0 +1,6 @@
+timeout_seconds: 100
+data_dir_name: "data"
+graph_dir: "graphs"
+problem_dir: "problems"
+problem_file_ext: "problems.json"
+out_dir: "out"

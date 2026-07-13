@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "m_mocp"
+version = "0.0.1"
+description = "Code for MILP-based Multi-Object Caging Planner"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "Alp Sahin", email = "als421@lehigh.com"}
+]
+dependencies = [
+    "numpy",
+    "gurobipy",
+    "PyYAML==6.0.2",
+    "networkx",
+]
+
+[project.scripts]
+m-mocp = "m_mocp.main:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
