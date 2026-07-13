@@ -1,0 +1,1820 @@
+{
+    "graph_scene1-m2-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            14,
+            14
+        ]
+    },
+    "graph_scene1-m2-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            13,
+            13
+        ]
+    },
+    "graph_scene1-m2-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            11,
+            11
+        ]
+    },
+    "graph_scene1-m2-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            7,
+            7
+        ]
+    },
+    "graph_scene1-m2-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            12,
+            12
+        ]
+    },
+    "graph_scene1-m3-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            7,
+            7,
+            12
+        ]
+    },
+    "graph_scene1-m3-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            7,
+            7,
+            13
+        ]
+    },
+    "graph_scene1-m3-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            11,
+            11,
+            13
+        ]
+    },
+    "graph_scene1-m3-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            11,
+            11,
+            14
+        ]
+    },
+    "graph_scene1-m3-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            12,
+            12,
+            13
+        ]
+    },
+    "graph_scene1-m3-i6": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            12,
+            12,
+            14
+        ]
+    },
+    "graph_scene1-m3-i7": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            7,
+            7,
+            14
+        ]
+    },
+    "graph_scene1-m3-i8": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            7,
+            7,
+            11
+        ]
+    },
+    "graph_scene1-m3-i9": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            11,
+            11,
+            12
+        ]
+    },
+    "graph_scene1-m3-i10": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene1-m4-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            7,
+            7,
+            14,
+            14
+        ]
+    },
+    "graph_scene1-m4-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            11,
+            11,
+            12,
+            12
+        ]
+    },
+    "graph_scene1-m4-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            12,
+            12,
+            14,
+            14
+        ]
+    },
+    "graph_scene1-m4-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            13,
+            13,
+            14,
+            14
+        ]
+    },
+    "graph_scene1-m4-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            7,
+            7,
+            11,
+            11
+        ]
+    },
+    "graph_scene1-m4-i6": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            7,
+            7,
+            13,
+            13
+        ]
+    },
+    "graph_scene1-m4-i7": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            12,
+            12,
+            13,
+            13
+        ]
+    },
+    "graph_scene1-m4-i8": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            11,
+            11,
+            14,
+            14
+        ]
+    },
+    "graph_scene1-m4-i9": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            7,
+            7,
+            12,
+            12
+        ]
+    },
+    "graph_scene1-m4-i10": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            11,
+            11,
+            13,
+            13
+        ]
+    },
+    "graph_scene1-m5-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            11,
+            11,
+            12,
+            12,
+            13
+        ]
+    },
+    "graph_scene1-m5-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            7,
+            7,
+            11,
+            11,
+            14
+        ]
+    },
+    "graph_scene1-m5-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            7,
+            7,
+            12,
+            12,
+            13
+        ]
+    },
+    "graph_scene1-m5-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            11,
+            11,
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene1-m5-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            12,
+            12,
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene1-m5-i6": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            7,
+            7,
+            11,
+            11,
+            13
+        ]
+    },
+    "graph_scene1-m5-i7": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            11,
+            11,
+            12,
+            12,
+            14
+        ]
+    },
+    "graph_scene1-m5-i8": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            7,
+            7,
+            12,
+            12,
+            14
+        ]
+    },
+    "graph_scene1-m5-i9": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            7,
+            7,
+            11,
+            11,
+            12
+        ]
+    },
+    "graph_scene1-m5-i10": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene1"
+        },
+        "init_config": [
+            7,
+            7,
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene2-m2-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            9,
+            9
+        ]
+    },
+    "graph_scene2-m2-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            13,
+            13
+        ]
+    },
+    "graph_scene2-m2-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            11,
+            11
+        ]
+    },
+    "graph_scene2-m2-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            12,
+            12
+        ]
+    },
+    "graph_scene2-m2-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            14,
+            14
+        ]
+    },
+    "graph_scene2-m3-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            11,
+            11,
+            14
+        ]
+    },
+    "graph_scene2-m3-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene2-m3-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            9,
+            9,
+            12
+        ]
+    },
+    "graph_scene2-m3-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            9,
+            9,
+            14
+        ]
+    },
+    "graph_scene2-m3-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            9,
+            9,
+            13
+        ]
+    },
+    "graph_scene2-m3-i6": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            12,
+            12,
+            14
+        ]
+    },
+    "graph_scene2-m3-i7": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            9,
+            9,
+            11
+        ]
+    },
+    "graph_scene2-m3-i8": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            11,
+            11,
+            12
+        ]
+    },
+    "graph_scene2-m3-i9": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            11,
+            11,
+            13
+        ]
+    },
+    "graph_scene2-m3-i10": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            12,
+            12,
+            13
+        ]
+    },
+    "graph_scene2-m4-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            9,
+            9,
+            12,
+            12
+        ]
+    },
+    "graph_scene2-m4-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            9,
+            9,
+            11,
+            11
+        ]
+    },
+    "graph_scene2-m4-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            11,
+            11,
+            14,
+            14
+        ]
+    },
+    "graph_scene2-m4-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            13,
+            13,
+            14,
+            14
+        ]
+    },
+    "graph_scene2-m4-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            11,
+            11,
+            13,
+            13
+        ]
+    },
+    "graph_scene2-m4-i6": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            11,
+            11,
+            12,
+            12
+        ]
+    },
+    "graph_scene2-m4-i7": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            12,
+            12,
+            14,
+            14
+        ]
+    },
+    "graph_scene2-m4-i8": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            9,
+            9,
+            13,
+            13
+        ]
+    },
+    "graph_scene2-m4-i9": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            9,
+            9,
+            14,
+            14
+        ]
+    },
+    "graph_scene2-m4-i10": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            12,
+            12,
+            13,
+            13
+        ]
+    },
+    "graph_scene2-m5-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            12,
+            12,
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene2-m5-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            9,
+            9,
+            12,
+            12,
+            13
+        ]
+    },
+    "graph_scene2-m5-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            9,
+            9,
+            11,
+            11,
+            14
+        ]
+    },
+    "graph_scene2-m5-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            11,
+            11,
+            12,
+            12,
+            13
+        ]
+    },
+    "graph_scene2-m5-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            9,
+            9,
+            11,
+            11,
+            13
+        ]
+    },
+    "graph_scene2-m5-i6": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            11,
+            11,
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene2-m5-i7": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            9,
+            9,
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene2-m5-i8": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            9,
+            9,
+            11,
+            11,
+            12
+        ]
+    },
+    "graph_scene2-m5-i9": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            9,
+            9,
+            12,
+            12,
+            14
+        ]
+    },
+    "graph_scene2-m5-i10": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene2"
+        },
+        "init_config": [
+            11,
+            11,
+            12,
+            12,
+            14
+        ]
+    },
+    "graph_scene3-m2-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            12,
+            12
+        ]
+    },
+    "graph_scene3-m2-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            11,
+            11
+        ]
+    },
+    "graph_scene3-m2-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            13,
+            13
+        ]
+    },
+    "graph_scene3-m2-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            14,
+            14
+        ]
+    },
+    "graph_scene3-m2-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            9,
+            9
+        ]
+    },
+    "graph_scene3-m3-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            11,
+            11,
+            12
+        ]
+    },
+    "graph_scene3-m3-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            9,
+            9,
+            12
+        ]
+    },
+    "graph_scene3-m3-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            9,
+            9,
+            13
+        ]
+    },
+    "graph_scene3-m3-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            12,
+            12,
+            14
+        ]
+    },
+    "graph_scene3-m3-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            12,
+            12,
+            13
+        ]
+    },
+    "graph_scene3-m3-i6": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene3-m3-i7": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            9,
+            9,
+            11
+        ]
+    },
+    "graph_scene3-m3-i8": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            11,
+            11,
+            13
+        ]
+    },
+    "graph_scene3-m3-i9": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            9,
+            9,
+            14
+        ]
+    },
+    "graph_scene3-m3-i10": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            11,
+            11,
+            14
+        ]
+    },
+    "graph_scene3-m4-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            12,
+            12,
+            13,
+            13
+        ]
+    },
+    "graph_scene3-m4-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            13,
+            13,
+            14,
+            14
+        ]
+    },
+    "graph_scene3-m4-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            9,
+            9,
+            12,
+            12
+        ]
+    },
+    "graph_scene3-m4-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            11,
+            11,
+            14,
+            14
+        ]
+    },
+    "graph_scene3-m4-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            12,
+            12,
+            14,
+            14
+        ]
+    },
+    "graph_scene3-m4-i6": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            11,
+            11,
+            12,
+            12
+        ]
+    },
+    "graph_scene3-m4-i7": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            11,
+            11,
+            13,
+            13
+        ]
+    },
+    "graph_scene3-m4-i8": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            9,
+            9,
+            14,
+            14
+        ]
+    },
+    "graph_scene3-m4-i9": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            9,
+            9,
+            13,
+            13
+        ]
+    },
+    "graph_scene3-m4-i10": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            9,
+            9,
+            11,
+            11
+        ]
+    },
+    "graph_scene3-m5-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            11,
+            11,
+            12,
+            12,
+            14
+        ]
+    },
+    "graph_scene3-m5-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            9,
+            9,
+            11,
+            11,
+            14
+        ]
+    },
+    "graph_scene3-m5-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            9,
+            9,
+            11,
+            11,
+            12
+        ]
+    },
+    "graph_scene3-m5-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            9,
+            9,
+            12,
+            12,
+            13
+        ]
+    },
+    "graph_scene3-m5-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            12,
+            12,
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene3-m5-i6": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            11,
+            11,
+            12,
+            12,
+            13
+        ]
+    },
+    "graph_scene3-m5-i7": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            9,
+            9,
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene3-m5-i8": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            9,
+            9,
+            11,
+            11,
+            13
+        ]
+    },
+    "graph_scene3-m5-i9": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            11,
+            11,
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene3-m5-i10": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene3"
+        },
+        "init_config": [
+            9,
+            9,
+            12,
+            12,
+            14
+        ]
+    },
+    "graph_scene4-m2-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            14,
+            14
+        ]
+    },
+    "graph_scene4-m2-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            10,
+            10
+        ]
+    },
+    "graph_scene4-m2-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            13,
+            13
+        ]
+    },
+    "graph_scene4-m2-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            11,
+            11
+        ]
+    },
+    "graph_scene4-m2-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            12,
+            12
+        ]
+    },
+    "graph_scene4-m3-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            10,
+            10,
+            12
+        ]
+    },
+    "graph_scene4-m3-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            10,
+            10,
+            11
+        ]
+    },
+    "graph_scene4-m3-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            11,
+            11,
+            13
+        ]
+    },
+    "graph_scene4-m3-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            11,
+            11,
+            12
+        ]
+    },
+    "graph_scene4-m3-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            10,
+            10,
+            14
+        ]
+    },
+    "graph_scene4-m3-i6": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            12,
+            12,
+            14
+        ]
+    },
+    "graph_scene4-m3-i7": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            12,
+            12,
+            13
+        ]
+    },
+    "graph_scene4-m3-i8": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene4-m3-i9": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            11,
+            11,
+            14
+        ]
+    },
+    "graph_scene4-m3-i10": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            10,
+            10,
+            13
+        ]
+    },
+    "graph_scene4-m4-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            11,
+            11,
+            13,
+            13
+        ]
+    },
+    "graph_scene4-m4-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            10,
+            10,
+            12,
+            12
+        ]
+    },
+    "graph_scene4-m4-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            10,
+            10,
+            14,
+            14
+        ]
+    },
+    "graph_scene4-m4-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            12,
+            12,
+            14,
+            14
+        ]
+    },
+    "graph_scene4-m4-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            10,
+            10,
+            13,
+            13
+        ]
+    },
+    "graph_scene4-m4-i6": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            13,
+            13,
+            14,
+            14
+        ]
+    },
+    "graph_scene4-m4-i7": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            10,
+            10,
+            11,
+            11
+        ]
+    },
+    "graph_scene4-m4-i8": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            11,
+            11,
+            14,
+            14
+        ]
+    },
+    "graph_scene4-m4-i9": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            11,
+            11,
+            12,
+            12
+        ]
+    },
+    "graph_scene4-m4-i10": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            12,
+            12,
+            13,
+            13
+        ]
+    },
+    "graph_scene4-m5-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            11,
+            11,
+            12,
+            12,
+            13
+        ]
+    },
+    "graph_scene4-m5-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            10,
+            10,
+            12,
+            12,
+            14
+        ]
+    },
+    "graph_scene4-m5-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            10,
+            10,
+            11,
+            11,
+            13
+        ]
+    },
+    "graph_scene4-m5-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            10,
+            10,
+            11,
+            11,
+            12
+        ]
+    },
+    "graph_scene4-m5-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            10,
+            10,
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene4-m5-i6": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            12,
+            12,
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene4-m5-i7": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            10,
+            10,
+            11,
+            11,
+            14
+        ]
+    },
+    "graph_scene4-m5-i8": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            11,
+            11,
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene4-m5-i9": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            10,
+            10,
+            12,
+            12,
+            13
+        ]
+    },
+    "graph_scene4-m5-i10": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene4"
+        },
+        "init_config": [
+            11,
+            11,
+            12,
+            12,
+            14
+        ]
+    },
+    "graph_scene5-m2-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            14,
+            14
+        ]
+    },
+    "graph_scene5-m2-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            8,
+            8
+        ]
+    },
+    "graph_scene5-m2-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            13,
+            13
+        ]
+    },
+    "graph_scene5-m2-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            15,
+            15
+        ]
+    },
+    "graph_scene5-m3-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            8,
+            8,
+            14
+        ]
+    },
+    "graph_scene5-m3-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            13,
+            13,
+            15
+        ]
+    },
+    "graph_scene5-m3-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            14,
+            14,
+            15
+        ]
+    },
+    "graph_scene5-m3-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            8,
+            8,
+            15
+        ]
+    },
+    "graph_scene5-m3-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            13,
+            13,
+            14
+        ]
+    },
+    "graph_scene5-m3-i6": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            8,
+            8,
+            13
+        ]
+    },
+    "graph_scene5-m4-i1": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            8,
+            8,
+            13,
+            13
+        ]
+    },
+    "graph_scene5-m4-i2": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            8,
+            8,
+            15,
+            15
+        ]
+    },
+    "graph_scene5-m4-i3": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            13,
+            13,
+            15,
+            15
+        ]
+    },
+    "graph_scene5-m4-i4": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            8,
+            8,
+            14,
+            14
+        ]
+    },
+    "graph_scene5-m4-i5": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            13,
+            13,
+            14,
+            14
+        ]
+    },
+    "graph_scene5-m4-i6": {
+        "graph": {
+            "file": "6_obj_graphs.json",
+            "name": "graph_scene5"
+        },
+        "init_config": [
+            14,
+            14,
+            15,
+            15
+        ]
+    }
+}
